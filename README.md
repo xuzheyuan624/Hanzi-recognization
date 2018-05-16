@@ -1,8 +1,12 @@
-#Hanzi Recognization
-##Requirement
+Hanzi Recognization
+===================
+Requirement
+-----------
 Python = 3.6<br>
 TensorFlow = 1.0.0<br>
-##Datastes
+
+Datastes
+--------
 We use CASIA-HWDB (A Handwritten Chinese datasets made by CAS)<br>
 You can get this dataset by:<br>
 ```Shell
