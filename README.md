@@ -3,7 +3,7 @@ Hanzi Recognization
 Requirement
 -----------
 Python = 3.6<br>
-TensorFlow = 1.0.0<br>
+TensorFlow = 1.0.0
 Datastes
 ---------
 We use CASIA-HWDB (A Handwritten Chinese datasets made by CAS)<br>
