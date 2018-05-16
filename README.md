@@ -39,4 +39,25 @@ python write_image.py
 ```
 And you can find pictures in $./data/png
 
+Train 
+-----
+```Shell
+python train.py
+```
+And if you want to go on the last training:
+```Shell
+python train.py --restore_dir=weights(the weights path that you want to restore)
+```
+Test
+----
+``` Shell
+python test.py --weights=ournet_final.ckpt --image=test.jpg
+```
 
+Eval
+----
+Choosing the wights that you want to evaluate
+```Shell
+python eval.py --weights=eval weights
+```
+You can find the resu;t in $./results
