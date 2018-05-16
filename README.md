@@ -64,7 +64,6 @@ You can find the resu;t in $./results
 
 Summary
 -------
-when training:
 ```Shell 
 tensorboard --logdir==./summary/ournet
 ```
