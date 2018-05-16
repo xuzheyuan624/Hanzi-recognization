@@ -68,3 +68,9 @@ when training:
 ```Shell 
 tensorboard --logdir==./summary/ournet
 ```
+loss:
+![](https://github.com/xuzheyuan624/Hanzi-recognization/blob/master/figure/train/loss.png)
+accuracy:
+![](https://github.com/xuzheyuan624/Hanzi-recognization/blob/master/figure/train/accuracy.png)
+network architecture:
+![](https://github.com/xuzheyuan624/Hanzi-recognization/blob/master/figure/graph/graph_run%3D.png)
