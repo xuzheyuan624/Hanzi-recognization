@@ -61,3 +61,10 @@ Choosing the wights that you want to evaluate
 python eval.py --weights=eval weights
 ```
 You can find the resu;t in $./results
+
+Summary
+-------
+when training:
+```Shell 
+tensorboard --logdir==./summary/ournet
+```
